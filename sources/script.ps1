@@ -17,9 +17,5 @@ Uninstall-Desinstallation
 Write-Host ""
 Clear-Windows
 Write-Host "==============================================================================="
-<<<<<<< HEAD
+
 Pause("Configuration terminee. Appuyez sur une touche pour quitter...")
-=======
-Pause("Configuration terminee. Appuyez sur une touche pour quitter (Le PC redemarrera)...")
-Set-RedémarragePC
->>>>>>> a74e99466ec743c5f3a29c3654812ae4497f7bea
