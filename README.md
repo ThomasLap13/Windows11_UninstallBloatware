@@ -99,5 +99,3 @@ Pour créer une nouvelle fonctionnalité dans une catégorie différente de cell
 
 Pour toute question ou information supplémentaire, n'hésitez pas à me contacter :  
 **ThomasLap13, apprenti informatique.**
-
----# Windows11_UninstallBloatware
